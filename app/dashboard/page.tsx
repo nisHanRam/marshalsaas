@@ -1,6 +1,4 @@
-import React from "react";
-
-const DashboardPage = () => {
+const DashboardPage = async () => {
   return <div>Hello from Dashboard</div>;
 };
 
